@@ -1,0 +1,40 @@
+body {
+    background: rgb(122, 193, 240);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section#intro {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.486);
+}
+
+section#text {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.486);
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    font-style: italic;
+}

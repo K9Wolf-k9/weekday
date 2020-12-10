@@ -17,6 +17,10 @@ section#intro {
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.486);
 }
 
+img {
+    height: 250px;
+}
+
 section#text {
     background: white;
     border-radius: 10px;
@@ -31,6 +35,11 @@ section#text {
 div {
     text-align: center;
     padding: 8px;
+}
+
+p#phara {
+    text-align: justify;
+    text-indent: 40px;
 }
 
 footer {
